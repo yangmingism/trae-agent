@@ -1,0 +1,73 @@
+{
+  "config_system": {
+    "current": "config_system.md",
+    "archive": [],
+    "description": "Trae Agent的配置系统分析，包含配置文件格式、核心配置块和配置加载机制"
+  },
+  "tool_system": {
+    "current": "tool_system.md",
+    "archive": [],
+    "description": "Trae Agent的工具系统分析，包含Tool抽象基类设计、工具调用流程和自定义工具开发方法"
+  },
+  "mcp_system": {
+    "current": "mcp_system.md",
+    "archive": [],
+    "description": "Trae Agent的MCP系统分析，包含MCP通信协议、MCPClient组件和多传输协议支持"
+  },
+  "code_knowledge_graph": {
+    "current": "code_knowledge_graph.md",
+    "archive": [],
+    "description": "Trae Agent的代码知识图谱系统分析，包含代码实体数据模型、tree-sitter解析引擎和SQLite存储层"
+  },
+  "llm_client_integration": {
+    "current": "llm_client_integration.md",
+    "archive": [],
+    "description": "Trae Agent的LLM客户端集成系统分析，包含抽象工厂模式设计、统一接口定义和多提供商实现"
+  },
+  "prompt_template_system": {
+    "current": "prompt_template_system.md",
+    "archive": [],
+    "description": "Trae Agent的提示模板系统分析，包含模板定义、模板加载机制和LLM交互消息构建"
+  },
+  "agent_core_execution": {
+    "current": "agent_core_execution.md",
+    "archive": [],
+    "description": "Trae Agent的核心执行系统分析，包含Agent类层次结构、任务执行流程和工具调用协调"
+  },
+  "trajectory_recording_system": {
+    "current": "trajectory_recording_system.md",
+    "archive": [],
+    "description": "轨迹记录系统技术分析，包含完整的架构设计和实现细节"
+  },
+  "docker_integration_system": {
+    "current": "docker_integration_system.md",
+    "archive": [],
+    "description": "Trae Agent的Docker集成系统分析，包含DockerManager组件、DockerToolExecutor和容器化执行环境"
+  },
+  "cli_command_line_interface": {
+    "current": "cli_command_line_interface.md",
+    "archive": [],
+    "description": "Trae Agent的CLI命令行界面系统分析，包含Click库命令行框架、控制台抽象层和交互式会话支持"
+  },
+  "last_updated": "2023-10-26T10:00:00Z",
+  "version_history": [
+    {
+      "date": "2023-10-26T10:00:00Z",
+      "document": "all",
+      "status": "updated",
+      "description": "更新所有文档的版本信息，完善文档管理系统"
+    }
+  ],
+  "optimized_task_order": [
+    "config_system.md",
+    "tool_system.md",
+    "mcp_system.md",
+    "code_knowledge_graph.md",
+    "llm_client_integration.md",
+    "prompt_template_system.md",
+    "agent_core_execution.md",
+    "trajectory_recording_system.md",
+    "docker_integration_system.md",
+    "cli_command_line_interface.md"
+  ]
+}
